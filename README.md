@@ -5,6 +5,7 @@ I know this isn't industry standard. I should take a clone. I may do that later,
 
 ALSO NOTE: ipynb extensions on files indicate that they are JSON-formatted files that are meant to be used with Python-powered jupyter notebooks, which are real-time-parseable and executable python in line with graphical and other output, and also some segments can be Markdown-formatted description sections, where a data scientist/analyst might record one's salient and interesting notes and observations.
 
+=======
 THE FOLLOWING ARE ENTIRELY HIS REMARKS:
 
 # DAT210x
