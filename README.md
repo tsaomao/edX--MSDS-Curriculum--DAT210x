@@ -1,3 +1,12 @@
+# TAKEN AS A DETACHED CLONE/COPY OF:
+Authman Apatira's repository here: https://github.com/authman/DAT210x
+
+I know this isn't industry standard. I should take a clone. I may do that later, but for now I don't want to take any chance of bothering this very busy man. Even with an errant pull request. :)
+
+ALSO NOTE: ipynb extensions on files indicate that they are JSON-formatted files that are meant to be used with Python-powered jupyter notebooks, which are real-time-parseable and executable python in line with graphical and other output, and also some segments can be Markdown-formatted description sections, where a data scientist/analyst might record one's salient and interesting notes and observations.
+
+THE FOLLOWING ARE ENTIRELY HIS REMARKS:
+
 # DAT210x
 Programming with Python for Data Science Microsoft
 
@@ -48,7 +57,7 @@ Anaconda will install `conda`, a Python, scientific package manager. It will als
 
 NumPy is a popular Python module for calculating linear algebra very optimally. MatPlotLib for interactive 2D / 3D graphs, Pandas for dataset manipulation, and SciKit-Learn for machine learning.
 
-After completing a lab exercise, submit your answers onto the appropriate course lab page in order to receive a grade. 
+After completing a lab exercise, submit your answers onto the appropriate course lab page in order to receive a grade.
 
 Spyder (Scientific PYthon Development EnviRonment) _was_ the IDE recommended you complete your lab assignments with, and you may still use it if you'd like; but for a much nicer workflow, we advise you to use Jupyter Notebooks.
 
@@ -57,7 +66,7 @@ Spyder (Scientific PYthon Development EnviRonment) _was_ the IDE recommended you
 
 This course is in stage-one of a two part revision. As a first step, we have moved all the content from Python 2.7 to 3.6 (although it's still possible for you to program in 2.7).
 
-We have also adopted [Jupyter Notebooks](https://jupyter.org/) (formerly IPython) and recommend you do all of your lab assignment coding in them as well. This will allot you smoothest coding experience. Some of the benefits of using notebooks: 
+We have also adopted [Jupyter Notebooks](https://jupyter.org/) (formerly IPython) and recommend you do all of your lab assignment coding in them as well. This will allot you smoothest coding experience. Some of the benefits of using notebooks:
 
 - Being able to document your process and keeping a (scientific) record of everything you tried while experimenting.
 - Th ability to add blocks of code, the same way you would in a flat file--but have them execute immediately if you like, the same way they would in Python shell.
@@ -71,7 +80,7 @@ We have also adopted [Jupyter Notebooks](https://jupyter.org/) (formerly IPython
 Jupyter comes with Anaconda. To start it up, simply navigate to the class repository folder you downloaded (the folder that contains this file), and then type the following command into your console:
 
     $ jupyter notebook
-    
+
 This will launch a new Jupyter instance in your web browser, pointed at your current working directory. From there, you can open the lab `.ipynb` Interactive Python Notebook files, or even create new ones of your own. Each notebook you launch will open up and run in its own, Python interpreter sandbox. If you have multiple versions of Python installed, you can specify from the menu what version of Python you'd like to spin up to interpret your code with.
 
 ### Basic Jupyter Commands ##
@@ -82,7 +91,7 @@ This will launch a new Jupyter instance in your web browser, pointed at your cur
 - To install notebook extensions, type the following commands and then relaunch jupyter from your shell:   
 	`conda install -c conda-forge jupyter_contrib_nbextensions`   
 	`jupyter contrib nbextension install --user`   
-	
+
 After enabling notebook extensions, you can browse them from the (now visible) NBExtensions tab.
 
 If you'd like additional help getting started with Jupyter notebooks, please [visit this page](https://www.youtube.com/results?search_query=jupyter+notebook+tutorial) for some short, getting-started, walk through videos.
