@@ -1,3 +1,10 @@
+# TAKEN AS A DETACHED CLONE/COPY OF:
+Authman Apatira's repository here: https://github.com/authman/DAT210x
+
+I know this isn't industry standard. I should take a clone. I may do that later, but for now I don't want to take any chance of bothering this very busy man. Even with an errant pull request. :)
+
+THE FOLLOWING ARE ENTIRELY HIS REMARKS:
+
 # DAT210x
 Programming with Python for Data Science Microsoft
 
